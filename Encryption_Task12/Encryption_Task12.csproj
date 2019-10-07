@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="DataPharser.cs" />
     <Compile Include="Encryptor.cs" />
+    <Compile Include="LFSR.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
